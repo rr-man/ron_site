@@ -18,8 +18,8 @@ window.PROJECTS = [
   {
     title: "Call Flow Builder",
     description:
-      "An interactive map of how inbound calls travel through a PBXware system — from provider trunk, through DID processing and operation-time gates, to every destination (IVR, queue, ring groups, extensions, voicemail). Gives account managers a plain-language view of a customer's routing.",
-    tags: ["JavaScript", "HTML", "SVG", "Asterisk / PBXware", "Telecom"],
+      "An interactive map of how inbound calls travel through a PBXware system — from provider trunk, through DID processing and operation-time gates, to every destination (IVR, queue, ring groups, extensions, voicemail). Built-in speech-to-text transcribes IVR prompts, adding real context to each step of the flow — so account managers see not just where calls go, but what callers hear.",
+    tags: ["JavaScript", "HTML", "SVG", "Speech-to-Text", "Asterisk / PBXware", "Telecom"],
     demo: "https://rr-man.github.io/Call-Flow-Builder/",
     repo: "https://github.com/rr-man/Call-Flow-Builder",
   },
