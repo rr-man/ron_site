@@ -1,6 +1,6 @@
 /* ==========================================================================
    Ron Mangune · Portfolio — styles
-   Vibe: professional & warm (warm neutrals + one calm clay accent).
+   Vibe: professional & warm (warm neutrals + one calm slate-blue accent).
    Design tokens live in :root; components follow.
    Theming is driven by [data-theme] on <html> (see js/main.js).
    ========================================================================== */
@@ -11,9 +11,9 @@
   --bg-alt: #f2ebe0;      /* warm sand */
   --fg: #2a2521;          /* warm near-black */
   --fg-muted: #6d6459;    /* warm taupe */
-  --accent: #a94f30;      /* clay / terracotta */
-  --accent-hover: #8f4227;
-  --accent-soft: rgba(169, 79, 48, 0.10);
+  --accent: #3b5ba6;      /* slate blue */
+  --accent-hover: #2f4a88;
+  --accent-soft: rgba(59, 91, 166, 0.10);
   --accent-fg: #ffffff;
   --border: #e7ddce;
   --card: #ffffff;
@@ -30,9 +30,9 @@
   --bg-alt: #1f1a15;
   --fg: #ece4d8;
   --fg-muted: #ab9f8f;
-  --accent: #e0895c;      /* lighter clay for dark bg */
-  --accent-hover: #eb9c72;
-  --accent-soft: rgba(224, 137, 92, 0.14);
+  --accent: #8aa8e0;      /* lighter slate blue for dark bg */
+  --accent-hover: #a3bce8;
+  --accent-soft: rgba(138, 168, 224, 0.14);
   --accent-fg: #17130f;
   --border: #322a22;
   --card: #201b16;
