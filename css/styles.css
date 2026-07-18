@@ -224,6 +224,7 @@ h1, h2, h3 { line-height: 1.15; }
   aspect-ratio: 1;
   border-radius: 50%;
   object-fit: cover;
+  object-position: 50% 18%;   /* bias circular crop toward the face */
   border: 4px solid var(--card);
   box-shadow: var(--shadow);
 }
