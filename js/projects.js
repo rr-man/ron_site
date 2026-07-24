@@ -23,4 +23,12 @@ window.PROJECTS = [
     demo: "https://rr-man.github.io/Call-Flow-Builder/",
     repo: "https://github.com/rr-man/Call-Flow-Builder",
   },
+  {
+    title: "Network Map Builder",
+    description:
+      "An interactive network topology mapper — lay out routers, switches, firewalls, and endpoints, connect them, and get a clear picture of a customer's environment instead of piecing it together from tickets and notes. Like the other tools, it runs entirely in the browser.",
+    tags: ["JavaScript", "HTML", "SVG", "Network Topology", "Telecom"],
+    demo: null,
+    repo: "https://github.com/rr-man/network-map-builder",
+  },
 ];
